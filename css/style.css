@@ -1,0 +1,41 @@
+.log{
+    background-color: #58468c;
+    height: 51px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.nli{
+    margin-left: 36px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #58468c;
+}
+
+.nli:hover{
+    color: RGB(255, 138, 115);
+}
+
+.naic{
+    font-size: 20px;
+    color: #58468c;
+    cursor: pointer;
+}
+
+.naic2{
+    background-color: #58468c;
+    font-size: 22px;
+    color: white;
+    padding: 10px;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+
+.naic2:hover{
+    background-color: RGB(255, 138, 115);
+}
+
+.naic:hover{
+    color: RGB(255, 138, 115);
+}
