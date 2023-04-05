@@ -95,3 +95,40 @@
     -webkit-box-shadow: 1px 5px 26px 8px #5580FF; 
     box-shadow: 1px 5px 26px 8px #5580FF;
 }
+
+.sc2im{
+    width: 411px;
+    height: 324px;
+}
+
+.sc2h3{
+    color: #58468C;
+}
+
+.sc2p{
+    color: RGB(113, 108, 128);
+}
+
+.sc2a{
+    text-decoration: none;
+    color: #58468C;
+    font-size: 14px;
+}
+
+#sc2ico{
+    color: #58468C;
+    margin-left: 18px;
+    margin-top: 5px;
+}
+
+.sc2di{
+    cursor: pointer;
+}
+
+.sc2di:hover .sc2a{
+    color: #FF8A73;
+}
+
+.sc2di:hover #sc2ico{
+    color: #FF8A73;
+}
