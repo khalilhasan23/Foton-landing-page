@@ -153,12 +153,16 @@
 
 .sc3h32{
     color: #58468C;
+    margin-left: 12px;
 }
 
 .sc3p2{
     color: RGB(113, 108, 128);
+    margin-left: 12px;
 }
 
 .sc3im2{
-
+    position: absolute;
+    margin-left: -65px;
+    margin-top: -127px;
 }
