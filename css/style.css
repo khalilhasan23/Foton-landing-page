@@ -132,3 +132,33 @@
 .sc2di:hover #sc2ico{
     color: #FF8A73;
 }
+
+.sc3h3{
+    color: #58468C;
+    text-align: right;
+}
+
+.sc3p{
+    color: RGB(113, 108, 128);
+    text-align: right;
+
+}
+
+.sc3im{
+    position: absolute;
+    margin-left: 336px;
+    margin-top: -119px;
+}
+
+
+.sc3h32{
+    color: #58468C;
+}
+
+.sc3p2{
+    color: RGB(113, 108, 128);
+}
+
+.sc3im2{
+
+}
