@@ -167,6 +167,17 @@
     margin-top: -127px;
 }
 
+.sc3bg{
+    background-image: url(../img/home-3-img-2.jpg);
+    height: 652px;
+}
+
+.sc3img{
+    position: absolute;
+    margin-left: 900px;
+    margin-top: 286px;
+    cursor: pointer;
+}
 
 
 
