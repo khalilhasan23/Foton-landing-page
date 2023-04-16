@@ -179,6 +179,28 @@
     cursor: pointer;
 }
 
+.sc4card{
+    width: 188px;
+}
+
+.sc4h3{
+    color: #58468C;
+    text-align: center;
+}
+
+.sc4p{
+    color: RGB(113, 108, 128);
+    text-align: center;
+}
+
+.sc4p2{
+    position: absolute;
+    font-size: 42px;
+    margin-top: -117px;
+    margin-left: 51px;
+    color: #58468C;
+}
+
 
 
 
