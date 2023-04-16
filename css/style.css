@@ -181,6 +181,9 @@
 
 .sc4card{
     width: 188px;
+    transition: all .2s cubic-bezier(.02,.54,.58,1);
+    width: 296px;
+    height: 393px;
 }
 
 .sc4h3{
@@ -197,11 +200,20 @@
     position: absolute;
     font-size: 42px;
     margin-top: -117px;
-    margin-left: 51px;
+    margin-left: 115px;
     color: #58468C;
 }
 
+.sc4card:hover{
+    box-shadow: 0 10px 55px 5px rgba(137,173,255,.35);
+    border-radius: 8px;
+    margin-top: -15px;
+}
 
+.sc4im{
+    margin-left: 58px;
+    margin-top: 39px;
+}
 
 
 
