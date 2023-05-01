@@ -1,7 +1,7 @@
 # Foton-landing-page
 
 
-## [site demo](https://khalilhasan23.github.io/Gaming-landing-page-2/)
+## [site demo](https://khalilhasan23.github.io/Foton-landing-page/)
 
 
 ## project screenshot
